@@ -6,12 +6,16 @@
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
+🚛 Logistics Tech Specialist  
+🎓 Database Management Student  
 
-* 🎓 Student passionate about technology
-* 📚 Learning Database (SQL Server, ERD, Normalization)
-* 🌐 Practicing building websites with HTML & CSS
-* 🔥 Improving coding skills every day
+💡 Currently **working & studying at the same time**  
+📊 Strong in **SQL & Excel (data processing, automation)**  
+⚙️ Building **automated systems for real-world workflows**  
+
+🚀 Goal: Become a **Fullstack Developer / Data Engineer**  
+🔥 Always learning and improving every day  
 
 ---
 
